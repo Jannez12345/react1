@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jannez12345/react1.git/static/css/main.64b22fbc.css",
+    "main.js": "/Jannez12345/react1.git/static/js/main.d2d6f04b.js",
+    "index.html": "/Jannez12345/react1.git/index.html",
+    "static/media/delete.svg": "/Jannez12345/react1.git/static/media/delete.08b08b21184b42c3d4b97a4cbc48d8f0.svg",
+    "static/media/check.svg": "/Jannez12345/react1.git/static/media/check.2449fb5ef200b33cb892b491d05e1c88.svg",
+    "main.64b22fbc.css.map": "/Jannez12345/react1.git/static/css/main.64b22fbc.css.map",
+    "main.d2d6f04b.js.map": "/Jannez12345/react1.git/static/js/main.d2d6f04b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b22fbc.css",
+    "static/js/main.d2d6f04b.js"
+  ]
+}
